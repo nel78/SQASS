@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+<number>617</number>
+<question>100만KW/100만 KW, 1000만km/1000만 km의 띄어쓰기가 왼쪽이 맞나요, 오른쪽이 맞나요?</question>
+<answer>100만 KW, 1000만 km로 띄어 써야 합니다. 100만 KW, 1000만 km에서 100이나 1000은 아라비아 숫자이지만 그 뒤에 만이 한글로 붙어서 아라비아 숫자와 단위가 직접 만나는 경우가 아니므로, 허용 규정이 적용되지 않습니다.</answer>
+</data>

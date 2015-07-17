@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+<number>1392</number>
+<question>증감내역에서 내역은 순화 대상 용어이니, 명세나 내용으로 순화해서 증감명세, 증감내용으로 사용해야 되나요?</question>
+<answer>물품이나 금액 따위의 내용을 이르는 내역은 명세로 순화하였습니다. 따라서 증감 명세 또는 증감 내용과 같이 쓰시기 바랍니다.</answer>
+</data>

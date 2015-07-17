@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+<number>1081</number>
+<question>한자 率과 列을 한글로 적을 경우 어느 때 률, 렬로 적고, 어느 때는 율, 열로 적는지 알고 싶습니다.</question>
+<answer>받침이 있는 말 다음에는 률, 렬로 적고 ㄴ 받침이나 모음 뒤에서는 율, 열로 적습니다. 표로 보이면 아래와 같습니다.     &lt;TABLE cellSpacing=0 cellPadding=5 border=1&gt; &lt;TBODY&gt; &lt;TR&gt; &lt;TD align=middle width=150&gt;&lt;FONT size=2&gt;받침이 없거나 ㄴ받침&lt;/FONT&gt;&lt;/TD&gt; &lt;TD align=middle width=20&gt;&lt;FONT size=2&gt;율&lt;/FONT&gt;&lt;/TD&gt; &lt;TD align=middle width=250&gt;&lt;FONT size=2&gt;비율, 실패율, 규율/ 선율, 전율, 백분율&lt;/FONT&gt;&lt;/TD&gt;&lt;/TR&gt; &lt;TR&gt; &lt;TD align=middle width=150&gt;&lt;FONT size=2&gt;그 외의 받침&lt;/FONT&gt;&lt;/TD&gt; &lt;TD align=middle width=20&gt;&lt;FONT size=2&gt;률&lt;/FONT&gt;&lt;/TD&gt; &lt;TD align=middle width=250&gt;&lt;FONT size=2&gt;명중률, 합격률, 성공률, 슛률&lt;/FONT&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;  국어에서 두음 법칙은 어두에만 적용되고 제２음절 이하에서는 적용되지 않는 것이 원칙입니다. 문의하신 률과 렬은 이러한 두음 법칙의 예외라고 할 수 있습니다. 제２음절 이하에 쓰일 때 모음이나 ㄴ 받침 뒤에 이어지는 률, 렬은 열, 율로 적어야 하기 때문입니다. (《한글 맞춤법》 제11 항[붙임 １]참조)  (1) ㄱ. 법률(法律), 능률(能率), 출석률(出席率) ㄴ. 운율(韻律), 비율(比率), 전율(戰慄)  (2) ㄱ. 행렬(行列), 결렬(決裂), 맹렬(猛烈), 졸렬(拙劣)  ㄴ. 치열(齒列), 분열(分裂), 치열(熾烈), 우열(優劣), 진열(陳列)  이는 모음이나 ㄴ 받침 다음에서는 열, 율로 발음되는 현실을 반영한 것입니다.</answer>
+</data>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+<number>395</number>
+<question>Element Hiding Helper의 해석을 어떻게 해야 할지 모르겠습니다. 요소 감춤 도우미인지 아니면 요소 숨김 도우미인지. 감춤과 숨김의 문제로 볼 수 있습니다. 참고로 이 영어 단어는 컴퓨터 관련 용어이며, 웹 페이지의 특정 구성 요소를 보이지 않게 하는 기능입니다. 참고할 수 있는 내용You simply select the element you want to be hidden and then choose which attributes of this element should be taken into account when hiding it in future. The element hiding rule is generated and added automatically.</question>
+<answer>감추다는 남이 보거나 찾아내지 못하도록 가리거나 숨기다.의 뜻을 나타내고, 숨기다는 어떤 사물을 남이 보이지 않는 곳에 두다.의 뜻을 나타내는데, 문의하신 경우에는 숨기다(명사형: 숨김, 숨기기)를 쓰는 것이 더 알맞다고 봅니다.</answer>
+</data>
